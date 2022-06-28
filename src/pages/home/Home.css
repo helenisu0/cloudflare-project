@@ -1,0 +1,15 @@
+.home{
+    flex: 4;
+}
+
+.homeWidget{
+    display: flex;
+    margin:25px;
+}
+.greeting{
+    margin-bottom: 20px;
+    padding: 30px;
+}
+.greeting>h6{
+    font-weight:300;
+}
