@@ -15,7 +15,7 @@ function App() {
   return (
     <Router>
      <TopBar/>
-     <div className="container">
+     <div className="Container">
        <Sidebar/>
        <Routes>
         <Route path='/' element={<Home/>}/> 
